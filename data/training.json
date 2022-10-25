@@ -1,19 +1,114 @@
 [
     {
       "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
-      "others_info": {
-        "is_todays_pick": false,
-        "is_trending": true
-      },
+      "cost": "$420",
+      "duration": "8 months",
+      "category_id": "01",
+      "rating": { "number": 4.8, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "Python for Everybody Specialization",
+      "image_url": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~SPECIALIZATION!~python/XDP~SPECIALIZATION!~python.jpeg",
+      "details": "Designed to help anyone navigate the complexities of the Python programming language, the “Python for Everybody” specialization is a comprehensive entryway for beginners.If you want to become a Python programmer, but don’t have a lot of background in coding, this is the course for you. The first two courses are suitable for people with no prior knowledge at all.The “specialization” course builds on the success of the initial “Python for Everybody” course to introduce new learning outcomes, like creating your own applications for data processing."
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+      "cost": "$156",
+      "duration": "4 months",
       "category_id": "01",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
-      "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
-      
-      "thumbnail_url": "https://i.ibb.co/QnwC4sG/unsplash-Eh-Tc-C9s-YXsw-11.png",
-      "image_url": "https://i.ibb.co/M23fhxm/unsplash-Eh-Tc-C9s-YXsw.png",
-      "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+      "title": "Google IT Automation with Python",
+      "image_url": "https://149357281.v2.pressablecdn.com/wp-content/uploads/2020/01/Blog-1200x630-1-1024x538.png",
+      "details": "Covering not just Python programming tips, but also insights into IT automation, and Git, the Google IT Automation with Python, is a convenient way to kickstart your technology career.This beginner-level course doesn’t require any previous programming knowledge. Basic knowledge of IT concepts like data management and operating systems is all you need to get started.The course aims to provide digital enthusiasts with the tools they need to advance their IT careers and comes with a Google professional certification to enhance your resume."
     },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6c",
+      "cost": "$94",
+      "duration": "22 hours",
+      "category_id": "01",
+      "rating": { "number": 4.0, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "Complete Python Bootcamp",
+      "image_url": "https://i.ytimg.com/vi/uQ5A0owPFk0/maxresdefault.jpg",
+      "details": "Every programmer needs to start somewhere. If you’re looking for the best Python course for beginners, the Complete Python Bootcamp offers a fantastic introduction to this powerful programming language.Covering everything you need to know to use Python professionally, the Bootcamp requires no prior knowledge, just an internet connection, and a computer.The comprehensive, yet straightforward course includes more than 100 lectures and 21 hours of video to take you from the absolute ground floor in programming, to coding excellence."
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6d",
+      "cost": "$94",
+      "duration": "22 hours",
+      "category_id": "01",
+      "rating": { "number": 4.3, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "Python Fundamentals",
+      "image_url": "https://s3-us-west-2.amazonaws.com/cdn.w3grads.com/web/services/115/original/PythonIntroMP4FullHD.mp4_snapshot_00.20.000.jpg",
+      "details": "Great for people with no prior knowledge of Python programming, the “Fundamentals”, course introduces you to everything you need to know about coding with Python.Robert Smallshire, and Austin Bingham of Sixty North provide a simple and easy-to-follow introduction into what Python can do, and how programmers can leverage the language.This course aims to make even the most complex aspects of Python fun and engaging, guiding you through all kinds of components, from strings and collections to objects and modularity."
+    },
+
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6e",
+      "cost": "$149",
+      "duration": "5 weeks",
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "Computing in Python I: Fundamentals and Procedural Programming",
+      "image_url": "https://education.sakshi.com/sites/default/files/2021-10/computing_in_python.jpg",
+      "details": "Starting from the beginning and covering all the basics of coding, how to write programs, and evaluate their output, Computing in Python is a comprehensive learning experience.The course, split into a series of easy-to-understand modules, combines an introduction to Python with a comprehensive view of the fundamentals of computing and programming.David Joyner from the Georgia Institute of Technology makes complex topics easy to digest with straightforward explanations, so you don’t need any in-depth coding knowledge. Basic knowledge of algebra will come in handy, however."
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6e",
+      "cost": "$149",
+      "duration": "5 weeks",
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "Python for Beginners",
+      "image_url": "https://miro.medium.com/max/1400/1*Zipt5ex6sSVSkciwlJoG4Q.png",
+      "details": "Great for hands-on learners, the Python for Beginners course allows students to dive straight into the Python landscape, experimenting with building new tools using variables, data types, and expressions. You’ll access guided exercises to help you discover how to use various functions and collections in an easy-to-follow format.This course experience, distributed over a series of 8 projects, is ideal if you don’t want to wait weeks before diving into programming. You learn just enough to start using code yourself, then develop your knowledge through experience."
+    },
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     {
       "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
       "others_info": {
