@@ -56,7 +56,7 @@
       "details": "Starting from the beginning and covering all the basics of coding, how to write programs, and evaluate their output, Computing in Python is a comprehensive learning experience.The course, split into a series of easy-to-understand modules, combines an introduction to Python with a comprehensive view of the fundamentals of computing and programming.David Joyner from the Georgia Institute of Technology makes complex topics easy to digest with straightforward explanations, so you don’t need any in-depth coding knowledge. Basic knowledge of algebra will come in handy, however."
     },
     {
-      "_id": "0282e0e58a5c404fbd15261f11c2ab6e",
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6f",
       "cost": "$149",
       "duration": "5 weeks",
       "category_id": "01",
@@ -65,6 +65,171 @@
       "title": "Python for Beginners",
       "image_url": "https://miro.medium.com/max/1400/1*Zipt5ex6sSVSkciwlJoG4Q.png",
       "details": "Great for hands-on learners, the Python for Beginners course allows students to dive straight into the Python landscape, experimenting with building new tools using variables, data types, and expressions. You’ll access guided exercises to help you discover how to use various functions and collections in an easy-to-follow format.This course experience, distributed over a series of 8 projects, is ideal if you don’t want to wait weeks before diving into programming. You learn just enough to start using code yourself, then develop your knowledge through experience."
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6g",
+      "cost": "$149",
+      "duration": "5 weeks",
+      "category_id": "01",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "Python Quick Start",
+      "image_url": "https://statanalytica.com/blog/wp-content/uploads/2022/02/difference-between-python-2-and-3-1024x536.png",
+      "details": "Python Quick Start is a beginner-focused course designed to give users a quick introduction to Python and the nature of this dynamic programming language.You don’t need any existing knowledge to get started, and you’ll even get an official LinkedIn learning Python certificate at the end of the course to add to your resume and make yourself stand out.This training option is likely to be one of the best Python courses if you want a quick introduction to the language, rather than a comprehensive bootcamp."
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6g",
+      "cost": "$149",
+      "duration": "5 weeks",
+      "category_id": "02",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "Object-Oriented Programming in Java Specialization by Coursera ",
+      "image_url": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~SPECIALIZATION!~object-oriented-programming/XDP~SPECIALIZATION!~object-oriented-programming.jpeg ",
+      "details": "Coursera has introduced this new course specifically for intermediate to expert level attendees. This program is for those software developers who have experience in programming languages such as Python, C, JavaScript, and more. Object-oriented programming in Java Specialization helps in solving complex problems through object-oriented design knowledge sharing to the attendees. In addition to that, the two Java development environments that are BlueJ and Eclipse, are also introduced, which will help the attendees to gain knowledge of graphical user interfaces so that they can easily design "
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6g",
+      "cost": "$149",
+      "duration": "5 weeks",
+      "category_id": "02",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "The Complete Java Masterclass by Udemy",
+      "image_url": "https://www.best-course-online.com/wp-content/uploads/533682-udemy-coupon-review.jpg",
+      "details": "The complete Java Masterclass is the most popular course, with more than 210,000 students enrolled to date. Udemy offers the course, and the classes are taken by Time Buchalka, a well-reputed and globally renowned Java developer and teacher. This course has accomplished 4.6 ratings which reveal the quality of knowledge sharing made by the faculties. The course is top-rated on the web platform and has more than 40K likes and sharing. This course has also observed updates from Java 8 to Have 9 to make them beneficial for the attendees."
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6g",
+      "cost": "$149",
+      "duration": "5 weeks",
+      "category_id": "02",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "Java Programming: Solving Problems with Software by Coursera",
+      "image_url": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~COURSE!~java-programming/XDP~COURSE!~java-programming.jpeg",
+      "details": "Coursera has introduced the course, namely Solving problems with software, to deliver education in learning to code in Java so that the programming and problem-solving skills can be added to the attendees. This program is ideal for the expert level and intermediate attendees who are looking to improve their skills in problem-solving in the Java language. Also, this program intends to deliver knowledge on design algorithms and develop and debug programs accordingly."
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6g",
+      "cost": "$149",
+      "duration": "5 weeks",
+      "category_id": "02",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "Java Fundamentals by Pluralsight",
+      "image_url": "https://pluralsight.imgix.net/course-images/test-automation-java-fundamentals-v1.png",
+      "details": "Pluralsight has introduced one of the best Java courses for beginners, which is meant to deliver Java language knowledge right from basics to core level concepts. Jim Wilson, a software engineer and has more than thirty years of experience in this field, takes the class and delivers valuable knowledge to the attendees. This course covers the basics of Java, Class, Files, error handling, data types, object, and other core Java concepts. In addition to that, this course offers detailed information about Java Programming language and servers. This will help the attendees to gain the most required information to get jobs and apply the server-side and client-side developments."
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6g",
+      "cost": "$149",
+      "duration": "5 weeks",
+      "category_id": "03",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "C++: From Beginner to Expert",
+      "image_url": " ",
+      "details": " "
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6g",
+      "cost": "$149",
+      "duration": "5 weeks",
+      "category_id": "03",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "C++: From Beginner to Expert",
+      "image_url": "https://hopeconflict.com/images/course/1634976013PicsArt_10-23-01.23.28.jpg",
+      "details": "Save your precious time by buying this course. You will learn how to program in C++ in a fast and easy way! The total length of the course is over 17 hours! You will learn theory and you will also gain lots of practice. During the course we will write many programs that will make you a great programmer.All of this is presented by a young man who shares his knowledge, so the language used can be easily understood by everyone.  "
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6g",
+      "cost": "$149",
+      "duration": "5 weeks",
+      "category_id": "03",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "Learn Advanced C++ Programming",
+      "image_url": "https://i.ytimg.com/vi/mUQZ1qmKlLY/maxresdefault.jpg",
+      "details": "This course will take you from a basic knowledge of C++ to using more advanced features of the language. This course is for you if you want to deepen your basic knowledge of C++, you want to learn C++ 11 features, or you've taken my free beginners' C++ course and you're looking for the next step.We'll start with a look at C++ file handling and move through STL, template classes, operator overloading, lambda expressions, move constructors and much more besides.At the end of the course I'll show you how to create a program that generates fractal images, using a a few of the language features we've seen in the course and giving you a great work out with smart pointers and arrays."
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6g",
+      "cost": "$149",
+      "duration": "5 weeks",
+      "category_id": "03",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "Design Patterns in Modern C++",
+      "image_url": "https://reviewsreporter.com/wp-content/uploads/2022/08/CPlusPlus1.jpg",
+      "details": "This course provides a comprehensive overview of Design Patterns in Modern C++ from a practical perspective. This course in particular covers patterns with the use of:The latest versions of the C++ programming language Use of modern programming approaches: dependency injection, use of coroutines, and more! Use of modern developer tools such as CLion and ReSharper C++ Discussions of pattern variations and alternative approaches"
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6g",
+      "cost": "$149",
+      "duration": "5 weeks",
+      "category_id": "04",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "C Programming For Beginners",
+      "image_url": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20200717144410/Learn-C-Programming-for-Beginners-A-20-Day-Curriculum.png",
+      "details": "The fastest, easiest way to learn to program C on a Mac or Windows. This course will teach you to program the C language from the ground up. You will learn everything from the very fundamentals of programming right through to the complexities of pointers, addresses and File IO. Maybe you've tried to master C before but failed. Or maybe you are new to C or new to programming. If so, this is the course for you! C is one of the most important of all programming languages. It is used to program desktop applications, compilers, tools and utilities and even hardware devices. The C language is fast and efficient – but it can be hard to learn. Unless you use this course. This course begins with a gentle introduction to C but quickly moves on to explain some of its most confusing features: everything from C's 'scoping' rules to the curious connection between arrays and memory addresses. By the end of the course you will have a deep understanding both of the C language itself and also of the underlying 'architecture' of your computer."
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6g",
+      "cost": "$149",
+      "duration": "5 weeks",
+      "category_id": "04",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "C Programming Step by Step - Complete Tutorial For Beginners",
+      "image_url": "https://d1m75rqqgidzqn.cloudfront.net/wp-data/2022/02/05230444/Learn-C-Programming-Online-Free.jpg",
+      "details": "I have been teaching this course to the undergraduate engineering students for last 15 years in class room. This course is well designed and covered almost all the topics that one should know while learning C language. Will not only help the student to build a solid foundation on the topic but will boost their confidence to face technical interviews boldly. The course contents are mostly video lectures. I would encourage absolute beginners to follow the lectures strictly in chronological manners, please start from the very first video and go to the next one only if you are done with the previous. However, though not recommended, but students with some previous knowledge could jump lectures if they are confident. The course is structured basically for the new programmers who may not have any previous experience with any programming language. From the very basic to advanced topics. Simple program to complex one in step-by-step. One should take this course to build a career as a programmer. Programming in C has been considered as foundation for any programming language. If one is confident with C, then can start learning any other language like PHP, C++ or Java."
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6g",
+      "cost": "$149",
+      "duration": "5 weeks",
+      "category_id": "04",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": " ",
+      "image_url": " ",
+      "details": " "
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6g",
+      "cost": "$149",
+      "duration": "5 weeks",
+      "category_id": "04",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": " ",
+      "image_url": " ",
+      "details": " "
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6g",
+      "cost": "$149",
+      "duration": "5 weeks",
+      "category_id": "04",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": " ",
+      "image_url": " ",
+      "details": " "
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6g",
+      "cost": "$149",
+      "duration": "5 weeks",
+      "category_id": "04",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": " ",
+      "image_url": " ",
+      "details": " "
     },
 
 
