@@ -1,0 +1,34 @@
+[
+    {
+      "id": "01",
+      "name": "Python Programming"
+    },
+    {
+      "id": "02",
+      "name": "Java Programming"
+    },
+    {
+      "id": "03",
+      "name": "Fundamentals of C++"
+    },
+    {
+      "id": "04",
+      "name": "Web Programming"
+    },
+    {
+      "id": "05",
+      "name": "C Programming"
+    },
+    {
+      "id": "06",
+      "name": "Culture"
+    },
+    {
+      "id": "07",
+      "name": "Social Sciences"
+    },
+    {
+      "id": "08",
+      "name": "Personal Development"
+    }
+  ]
