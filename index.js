@@ -3,6 +3,7 @@ const cors = require("cors");
 const app = express();
 const port = process.env.PORT || 5000;
 const categories = require("./data/categories.json");
+const training = require("./data/training.json");
 
 app.use(cors());
 
@@ -19,6 +20,15 @@ app.get("/categories/:id", (req, res) => {
   console.log("categories id:", id);
   const category = categories.find((c) => c.id == id);
   res.send(category);
+});
+app.get("/training", (req, res) => {
+  res.send(training);
+});
+app.get("/training/:id", (req, res) => {
+  const id = parseInt(req.params.id);
+  console.log("categories id:", id);
+  const currentTraining = training.find((c) => c.id == id);
+  res.send(currentTraining);
 });
 
 app.listen(port, () => {
