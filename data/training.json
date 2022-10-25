@@ -121,17 +121,7 @@
       "image_url": "https://pluralsight.imgix.net/course-images/test-automation-java-fundamentals-v1.png",
       "details": "Pluralsight has introduced one of the best Java courses for beginners, which is meant to deliver Java language knowledge right from basics to core level concepts. Jim Wilson, a software engineer and has more than thirty years of experience in this field, takes the class and delivers valuable knowledge to the attendees. This course covers the basics of Java, Class, Files, error handling, data types, object, and other core Java concepts. In addition to that, this course offers detailed information about Java Programming language and servers. This will help the attendees to gain the most required information to get jobs and apply the server-side and client-side developments."
     },
-    {
-      "_id": "0282e0e58a5c404fbd15261f11c2ab6g",
-      "cost": "$149",
-      "duration": "5 weeks",
-      "category_id": "03",
-      "rating": { "number": 4.5, "badge": "Excellent" },
-      "total_view": 488,
-      "title": "C++: From Beginner to Expert",
-      "image_url": " ",
-      "details": " "
-    },
+  
     {
       "_id": "0282e0e58a5c404fbd15261f11c2ab6g",
       "cost": "$149",
@@ -194,9 +184,9 @@
       "category_id": "04",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
-      "title": " ",
-      "image_url": " ",
-      "details": " "
+      "title": "Advanced C Programming Course",
+      "image_url": "https://cc.sj-cdn.net/instructor/kt1ejklh2ngf-microchip-technology/courses/1ml1xnfafd0fx/promo-image.1631742727.png ",
+      "details": "The C programming language in 2020 is still one of the most popular and widely used languages. Having C programming skills gives you great career options, but learning the C language, particularly some of the trickier advanced stuff can be really difficult. This course is designed to take your basic C skills to the next level and help you obtain mastery of the language by helping you understand advanced concepts of the C programming language, enabling you to master the art of problem-solving in programming using efficient, proven methods. You’ll learn how to write high-quality C code and to make yourself more marketable for higher-level programming positions. Just some of the topics in this huge 28-hour course include Threads, Function Pointers, Double Pointers, Recursion, Networking using Sockets, Bit manipulation, Macros, Signals, Storage Classes and loads more.  Check the curriculum on this page for full details of what is included in this very comprehensive course."
     },
     {
       "_id": "0282e0e58a5c404fbd15261f11c2ab6g",
@@ -205,26 +195,59 @@
       "category_id": "04",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
-      "title": " ",
-      "image_url": " ",
-      "details": " "
+      "title": "C PROGRAMMING made easy",
+      "image_url": "http://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2019/08/C-Programming-Tutorial-1.jpg",
+      "details": "This course is designed for students / professionals who are relatively to new (or) beginners to programming. This course is designed to give hands-on programming knowledge in various concepts of C-Language. Below concepts are covered with illustrated code samples. All code samples can be reviewed and practiced."
     },
     {
       "_id": "0282e0e58a5c404fbd15261f11c2ab6g",
       "cost": "$149",
       "duration": "5 weeks",
-      "category_id": "04",
+      "category_id": "05",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
-      "title": " ",
-      "image_url": " ",
-      "details": " "
+      "title": "Become a Certified HTML, CSS, JavaScript Web Developer",
+      "image_url": "https://d3f1iyfxxz8i1e.cloudfront.net/courses/course_image/a4b6c9234865.jpg",
+      "details": "Learn What It Takes to Code Dynamic, Professional Websites and Web Apps From The Comfort of Your Own Home  Do you ever browse the internet wondering how your favorite websites were built? Facebook, Twitter, Amazon—they were all created by people who at one point in time didn’t know anything about coding. How did they obtain this knowledge? In this comprehensive course, I’m going to show you everything you need to know so that you can follow in these people’s footsteps. You’re going to learn how to code AND you’re going to become a certified professional from a recognized international trainer. And best of all, you’re going to have fun doing it. You Don’t Have to Be a Genius or a Mathematical Wizard. So many people believe that you must have a special ‘gift’ to create professional-quality, dynamic websites/web apps. I’m here to tell you once and for all that this is false. All you need to have is the desire to learn and the ability to follow instructions—that’s it! "
     },
     {
       "_id": "0282e0e58a5c404fbd15261f11c2ab6g",
       "cost": "$149",
       "duration": "5 weeks",
-      "category_id": "04",
+      "category_id": "05",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "The Complete 2022 Fullstack Web Developer Course",
+      "image_url": "https://www.spaceo.ca/wp-content/uploads/2021/08/Full-Stack-Development-Courses-1.jpg ",
+      "details": "This was the first Complete Web Development course on Udemy. It's extremely comprehensive and I explain EVERYTHING you need to know, step by step. There's a reason why there are so many Complete Web Development courses on Udemy today -- they took what worked and made spin off courses.Join over 80,000 other students in this massive course! This course is designed for every skill level. Whether you're just learning web development today, or you're already a Python Pro, there's lots to learn for everybody! "
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6g",
+      "cost": "$149",
+      "duration": "5 weeks",
+      "category_id": "05",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "Introduction to Web Development",
+      "image_url": "https://www.relinns.com/wp-content/uploads/2018/07/91blog.png",
+      "details": "Are you considering web development as a career? Do you simply want to learn to create your own web sites but don't know where to start? Does the world of programming fascinate you? Are you curious about what it takes to be a web developer. Join master instructor, Mark Lassoff, for this fast paced, short course designed to introduce you to the world of web development. You'll be introduced to three of the primary languages used for web development."
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6g",
+      "cost": "$149",
+      "duration": "5 weeks",
+      "category_id": "05",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "Running a Web Development Business: The Complete Guide",
+      "image_url": "https://s3.amazonaws.com/www.starterstory.com/stories/social_shares/000/006/061/original/open-uri20210513-4-1jvtxh7?1620900680",
+      "details": "Web development is one of the fastest growing online industries today. It's important for every business to have an online presence and that represents a huge opportunity for you. Whether you want to code or not, you can capitalize on the over 24 billion dollars of money spent per year on web development services. Whether you want to work part-time or full-time, you can create an awesome portfolio and an even better income taking on web development projects. In this course, I'm going to show you how to jumpstart your business, grow it quickly, and manage your business like a professional - all from the comfort of your laptop."
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab6g",
+      "cost": "$149",
+      "duration": "5 weeks",
+      "category_id": "06",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
       "title": " ",
