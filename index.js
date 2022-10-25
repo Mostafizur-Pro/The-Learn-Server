@@ -17,7 +17,7 @@ app.get("/categories", (req, res) => {
 });
 
 app.get("/categories/:id", (req, res) => {
-  const id = parseInt(req.params.id);
+  const id = req.params.id;
   console.log("categories id:", id);
   const category = training.filter((c) => c.category_id === id);
   res.send(category);
