@@ -1,34 +1,39 @@
 [
     {
       "id": "01",
-      "name": "Python Programming"
+      "name": "Python Programming",
+      "image":"http://d1jnx9ba8s6j9r.cloudfront.net/blog/wp-content/uploads/2017/06/Python-Programming-Edureka.png",
+      "detail":"Python is a popular general-purpose programming language. It is used in machine learning, web development, desktop applications, and many other fields. Fortunately for beginners, Python has a simple, easy-to-use syntax. This makes Python a great language to learn for beginners. "
     },
     {
       "id": "02",
-      "name": "Java Programming"
+      "name": "Java Programming",
+      "image":"https://contentstatic.techgig.com/photo/90078629.cms",
+      "detail":"Java is a powerful general-purpose programming language. It is used to develop desktop and mobile applications, big data processing, embedded systems, and so on. According to Oracle, the company that owns Java, Java runs on 3 billion devices worldwide, which makes Java one of the most popular programming languages."
     },
     {
       "id": "03",
-      "name": "Fundamentals of C++"
+      "name": "Fundamentals of C++",
+      "image":"https://res.cloudinary.com/go1/image/upload/q_60,h_256/v1564454325/waqm3vwzlbrrigmztqvq.png",
+      "detail":"Basic concepts of C++ programming language. Different data types and operators. The implementation of control structures. Logic building using arrays and pointers."
     },
     {
       "id": "04",
-      "name": "C Programming"
+      "name": "C Programming",
+      "image":"https://contentstatic.techgig.com/photo/90325682.cms",
+      "detail":"C is a powerful general-purpose programming language. It can be used to develop software like operating systems, databases, compilers, and so on. C programming is an excellent language to learn to program for beginners."
     },
     {
       "id": "05",
-      "name": "Web Programming"
+      "name": "Web Programming",
+      "image":"https://contentstatic.techgig.com/photo/84442965/planning-a-career-in-web-development-everything-you-must-know.jpg?49831",
+      "detail":"Web programming refers to the writing, markup and coding involved in Web development, which includes Web content, Web client and server scripting and network security. The most common languages used for Web programming are XML, HTML, JavaScript, Perl 5 and PHP. Web programming is different from just programming, which requires interdisciplinary knowledge on the application area, client and server scripting, and database technology."
     },
     {
       "id": "06",
-      "name": "Culture"
-    },
-    {
-      "id": "07",
-      "name": "Social Sciences"
-    },
-    {
-      "id": "08",
-      "name": "Personal Development"
+      "name": "PHP Programming",
+      "image":"https://www.biz4group.com/images/why-choose-php-programming-language-for-web-development.jpg",
+      "detail":"PHP (recursive acronym for PHP: Hypertext Preprocessor) is a widely-used open source general-purpose scripting language that is especially suited for web development and can be embedded into HTML."
     }
+  
   ]

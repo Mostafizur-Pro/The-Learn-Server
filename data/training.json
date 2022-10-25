@@ -250,10 +250,33 @@
       "category_id": "06",
       "rating": { "number": 4.5, "badge": "Excellent" },
       "total_view": 488,
-      "title": " ",
-      "image_url": " ",
-      "details": " "
+      "title": "PHP Web Development with MySQL",
+      "image_url": "https://ishanacharya.files.wordpress.com/2021/03/web-development-with-php-mysql-cakephp.png?w=470",
+      "details": "The students can be able to create web applications using PHP and MySQL The students can be able to understand the concepts of client and server. The students get hands on experience of how things happen in PHP? The students get in depth learning of MySQL relational database management system. "
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab7b",
+      "cost": "$149",
+      "duration": "5 weeks",
+      "category_id": "06",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "The Complete Object Oriented PHP Developer Course",
+      "image_url": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~COURSE!~oop-with-php/XDP~COURSE!~oop-with-php.jpeg",
+      "details": "Modern object oriented programming principles and practice PHP 7.4 and greater (currently at version 8) Latest technology and techniques Using 3rd party packages"
+    },
+    {
+      "_id": "0282e0e58a5c404fbd15261f11c2ab7v",
+      "cost": "$149",
+      "duration": "5 weeks",
+      "category_id": "06",
+      "rating": { "number": 4.5, "badge": "Excellent" },
+      "total_view": 488,
+      "title": "PHP for Beginners : Learn PHP Programming From Scratch!",
+      "image_url": "https://i.ytimg.com/vi/4PfUtr2x9z8/maxresdefault.jpg",
+      "details": "Write PHP codes easily Understand PHP and Web Terminology Create Your Own PHP Pages! Catch the Opportunities in the Web Development!"
     }
+  
 
 
 
