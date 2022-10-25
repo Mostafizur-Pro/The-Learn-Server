@@ -15,19 +15,22 @@ app.get("/", (req, res) => {
 app.get("/categories", (req, res) => {
   res.send(categories);
 });
+
 app.get("/categories/:id", (req, res) => {
   const id = parseInt(req.params.id);
   console.log("categories id:", id);
-  const category = categories.find((c) => c.id == id);
+  const category = training.filter((c) => c.category_id === id);
   res.send(category);
 });
+
 app.get("/training", (req, res) => {
   res.send(training);
 });
+
 app.get("/training/:id", (req, res) => {
-  const id = parseInt(req.params.id);
-  console.log("categories id:", id);
-  const currentTraining = training.find((c) => c.id == id);
+  const id = req.params.id;
+  console.log("training id:", id);
+  const currentTraining = training.find((c) => c._id === id);
   res.send(currentTraining);
 });
 
